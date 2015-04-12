@@ -8,3 +8,11 @@
 #map2 {
 	display:none;
 }
+
+.about{
+	clear: both;
+}
+
+.col-md-3{
+	left: 25%;
+}

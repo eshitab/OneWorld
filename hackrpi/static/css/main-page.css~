@@ -4,3 +4,15 @@
   margin-right: auto ;
   text-align: center;
 }	
+
+#map2 {
+	display:none;
+}
+
+.about{
+	clear: both;
+}
+
+.col-md-3{
+	left: 25%;
+}
