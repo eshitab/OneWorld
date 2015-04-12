@@ -245,8 +245,11 @@
         </div>
         <!-- /.container -->
     </section>
-    
-    
+    <div class="col-md-6">
+                            <div class="portfolio-item">
+                            <i class="fa fa-phone fa-fw"></i> Send SMS to all </li> <br/>
+                        <i class="fa fa-envelope-o fa-fw"></i> Send e-mail to all </a>
+         </ul></div></div>               
     
     <section id="graph" class="graph">
         
